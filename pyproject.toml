@@ -1,0 +1,17 @@
+[project]
+name = "rag-llm-openai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "geopy>=2.4.1",
+    "openai>=1.78.1",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+    "streamlit-folium>=0.25.0",
+]
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
