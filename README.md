@@ -4,6 +4,10 @@ GeoChat is a conversational web application powered by **OpenAI's GPT models** t
 
 The project is made in a way that it is easy to extrapolate to use any other llm.
 
+--- 
+
+![app_demo](https://raw.githubusercontent.com/cberdejo/GeoChat/main/screenshots/example.png)
+
 ---
 
 ## 🚀 Features
